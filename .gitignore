@@ -1,0 +1,12 @@
+# Public showcase: source and deployment artifacts do not belong here.
+app/
+src/
+.private/
+.env*
+*.db
+*.mp3
+*.flac
+*.zip
+*.tar.gz
+node_modules/
+.venv/
